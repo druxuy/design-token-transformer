@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 06 Apr 2022 22:31:36 GMT
+// Generated on Thu, 07 Apr 2022 00:55:56 GMT
 
 
 import UIKit
@@ -90,4 +90,100 @@ public class StyleDictionary {
     public static let colorGenericoWarning700 = UIColor(red: 0.992, green: 0.627, blue: 0.000, alpha: 1)
     public static let colorGenericoWarning800 = UIColor(red: 0.992, green: 0.561, blue: 0.000, alpha: 1)
     public static let colorGenericoWarning900 = UIColor(red: 0.996, green: 0.431, blue: 0.000, alpha: 1)
+    public static let fontHeadingColossus = "[object Object]"
+    public static let fontHeadingDisplay = "[object Object]"
+    public static let fontHeadingH1 = "[object Object]"
+    public static let fontHeadingH2 = "[object Object]"
+    public static let fontHeadingH3 = "[object Object]"
+    public static let fontHeadingH4 = "[object Object]"
+    public static let fontHeadingH5 = "[object Object]"
+    public static let fontHeadingHero = "[object Object]"
+    public static let typographyHeadingColossusFontFamily = Inter
+    public static let typographyHeadingColossusFontSize = 122
+    public static let typographyHeadingColossusFontStretch = normal
+    public static let typographyHeadingColossusFontStyle = normal
+    public static let typographyHeadingColossusFontWeight = 700
+    public static let typographyHeadingColossusLetterSpacing = -1.22
+    public static let typographyHeadingColossusLineHeight = 134.2
+    public static let typographyHeadingColossusParagraphIndent = 0
+    public static let typographyHeadingColossusParagraphSpacing = 0
+    public static let typographyHeadingColossusTextCase = none
+    public static let typographyHeadingColossusTextDecoration = none
+    public static let typographyHeadingDisplayFontFamily = Inter
+    public static let typographyHeadingDisplayFontSize = 71
+    public static let typographyHeadingDisplayFontStretch = normal
+    public static let typographyHeadingDisplayFontStyle = normal
+    public static let typographyHeadingDisplayFontWeight = 700
+    public static let typographyHeadingDisplayLetterSpacing = -0.71
+    public static let typographyHeadingDisplayLineHeight = 78.1
+    public static let typographyHeadingDisplayParagraphIndent = 0
+    public static let typographyHeadingDisplayParagraphSpacing = 0
+    public static let typographyHeadingDisplayTextCase = none
+    public static let typographyHeadingDisplayTextDecoration = none
+    public static let typographyHeadingH1FontFamily = Inter
+    public static let typographyHeadingH1FontSize = 59
+    public static let typographyHeadingH1FontStretch = normal
+    public static let typographyHeadingH1FontStyle = normal
+    public static let typographyHeadingH1FontWeight = 700
+    public static let typographyHeadingH1LetterSpacing = -0.59
+    public static let typographyHeadingH1LineHeight = 64.9
+    public static let typographyHeadingH1ParagraphIndent = 0
+    public static let typographyHeadingH1ParagraphSpacing = 0
+    public static let typographyHeadingH1TextCase = none
+    public static let typographyHeadingH1TextDecoration = none
+    public static let typographyHeadingH2FontFamily = Inter
+    public static let typographyHeadingH2FontSize = 49
+    public static let typographyHeadingH2FontStretch = normal
+    public static let typographyHeadingH2FontStyle = normal
+    public static let typographyHeadingH2FontWeight = 700
+    public static let typographyHeadingH2LetterSpacing = -0.49
+    public static let typographyHeadingH2LineHeight = 53.9
+    public static let typographyHeadingH2ParagraphIndent = 0
+    public static let typographyHeadingH2ParagraphSpacing = 0
+    public static let typographyHeadingH2TextCase = none
+    public static let typographyHeadingH2TextDecoration = none
+    public static let typographyHeadingH3FontFamily = Inter
+    public static let typographyHeadingH3FontSize = 41
+    public static let typographyHeadingH3FontStretch = normal
+    public static let typographyHeadingH3FontStyle = normal
+    public static let typographyHeadingH3FontWeight = 400
+    public static let typographyHeadingH3LetterSpacing = -0.41
+    public static let typographyHeadingH3LineHeight = 45.1
+    public static let typographyHeadingH3ParagraphIndent = 0
+    public static let typographyHeadingH3ParagraphSpacing = 0
+    public static let typographyHeadingH3TextCase = none
+    public static let typographyHeadingH3TextDecoration = none
+    public static let typographyHeadingH4FontFamily = Inter
+    public static let typographyHeadingH4FontSize = 34
+    public static let typographyHeadingH4FontStretch = normal
+    public static let typographyHeadingH4FontStyle = normal
+    public static let typographyHeadingH4FontWeight = 400
+    public static let typographyHeadingH4LetterSpacing = -0.34
+    public static let typographyHeadingH4LineHeight = 44.2
+    public static let typographyHeadingH4ParagraphIndent = 0
+    public static let typographyHeadingH4ParagraphSpacing = 0
+    public static let typographyHeadingH4TextCase = none
+    public static let typographyHeadingH4TextDecoration = none
+    public static let typographyHeadingH5FontFamily = Inter
+    public static let typographyHeadingH5FontSize = 23
+    public static let typographyHeadingH5FontStretch = normal
+    public static let typographyHeadingH5FontStyle = normal
+    public static let typographyHeadingH5FontWeight = 400
+    public static let typographyHeadingH5LetterSpacing = -0.23
+    public static let typographyHeadingH5LineHeight = 29.9
+    public static let typographyHeadingH5ParagraphIndent = 0
+    public static let typographyHeadingH5ParagraphSpacing = 0
+    public static let typographyHeadingH5TextCase = none
+    public static let typographyHeadingH5TextDecoration = none
+    public static let typographyHeadingHeroFontFamily = Inter
+    public static let typographyHeadingHeroFontSize = 85
+    public static let typographyHeadingHeroFontStretch = normal
+    public static let typographyHeadingHeroFontStyle = normal
+    public static let typographyHeadingHeroFontWeight = 700
+    public static let typographyHeadingHeroLetterSpacing = -0.85
+    public static let typographyHeadingHeroLineHeight = 93.5
+    public static let typographyHeadingHeroParagraphIndent = 0
+    public static let typographyHeadingHeroParagraphSpacing = 0
+    public static let typographyHeadingHeroTextCase = none
+    public static let typographyHeadingHeroTextDecoration = none
 }
